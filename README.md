@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HelloWorldRobots
 - 👀 I’m interested in Robotics
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on IoT projects
-- 📫 How to reach me sakshat932@gmail.com
+- 🤖 I’m looking to collaborate on IoT projects
+- 📫 How to reach me helloworldrobotics@gmail.com
 
 
 <!---
